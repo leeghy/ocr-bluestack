@@ -14,3 +14,4 @@ https://developer.android.com/tools/releases/platform-tools?hl=ko
 6. 블루스택에서 adb 켜기
 (adb devices)
  - 연결 안되면 adb connect 127.0.0.1:5555
+ - 에뮬레이터는 하나만 연결되어야 함
